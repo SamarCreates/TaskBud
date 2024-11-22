@@ -35,7 +35,7 @@ int main()
     // User Interface
 
     printf("==== TASK MANAGER ====\n");
-    printf("Welcome! Manage your tasks easily with this Task Manager.\n");
+    printf("Welcome to TaskBud! Manage and track your tasks easily with TaskBud.\n");
 
     while (1)
     {
